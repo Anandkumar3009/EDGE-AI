@@ -1,0 +1,18 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local environment/IDE files
+.vscode/
+.idea/
+tempCodeRunnerFile.py
+
+# Data/Log files (keep the folder, ignore the large raw data if needed)
+imu_data/*.csv
+*.log
+
+# Windows/System junk
+Thumbs.db
+Desktop.ini
+.DS_Store
